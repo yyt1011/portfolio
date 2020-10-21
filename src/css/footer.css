@@ -1,0 +1,38 @@
+.footer {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: stretch;
+  border-top: 1.5px solid #e0e0e0;
+  font-size: 14px;
+  margin: 40px;
+  padding-top: 10px;
+  text-align: left;
+}
+.footer .copyright {
+  color: #999999;
+  flex-grow: 6;
+}
+.footer .social {
+  position: relative;
+  flex-grow: 1;
+}
+.footer .social::before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  margin-top: 6px;
+  margin-left: -20px;
+  background-color: #999999;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+.footer a {
+  color: #999999;
+  text-decoration: none;
+}
+.footer a:visited {
+  color: #999999;
+}
+
+/*# sourceMappingURL=footer.css.map */

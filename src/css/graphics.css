@@ -1,0 +1,37 @@
+.page-intro {
+  margin: 40px 60px;
+  border-bottom: 1px #999999 solid;
+  text-align: left;
+  padding-bottom: 40px;
+}
+.page-intro p {
+  width: 80%;
+  margin: auto;
+}
+
+.divider {
+  border-top: 1px #999999 solid;
+  padding-top: 40px;
+}
+
+.img-grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.img-grid .column {
+  width: 25%;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-start;
+  margin: 0 15px;
+}
+.img-grid .column img {
+  width: 90%;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 30px 10px 30px 10px;
+  border-bottom: 1.75px #eceaea dashed;
+}
+
+/*# sourceMappingURL=graphics.css.map */
