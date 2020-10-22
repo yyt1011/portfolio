@@ -7,9 +7,9 @@ const personal = () => {
     <React.Fragment>
       <div className="main">
         <InteractiveGrid
-          firstProjectLink={`https://yyt1011.github.io/yutong.github.io/index.html`}
+          firstProjectLink={`https://yyt1011.github.io/immigration/`}
           firstProjectTitle={`Where are companies that are hiring foreign employees?`}
-          secondProjectLink={`https://yyt1011.github.io/yutong.github.io/index.html`}
+          secondProjectLink={`https://yyt1011.github.io/refugee/`}
           secondProjectTitle={`A sharp decline in refugee accepted by the US since 2017`}
           firstImageLink={require("../image/comp/PERM_Immigration.gif")}
           firstImageAlt={`Immgration`}
