@@ -13,8 +13,20 @@ const home = () => {
               I'm <span className="bold">Yutong Yuan </span>{" "}
             </p>
             <p>
-              I'm a visual journalist. <br />I work with data, make charts and
-              love coding.
+              I'm a visual journalist. <br />I work with data{" "}
+              <span className="emoji" role="img" aria-label="poll">
+                {String.fromCodePoint("0x2714")}
+              </span>
+              , make charts{" "}
+              <span className="emoji" role="img" aria-label="poll">
+                {String.fromCodePoint("0x1F4CA")}
+              </span>{" "}
+              <br />
+              and love coding{" "}
+              <span className="emoji" role="img" aria-label="poll">
+                {String.fromCodePoint("0x1F4BB")}
+              </span>
+              .
             </p>
             <p>
               You can find my work {`at `}

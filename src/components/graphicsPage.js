@@ -25,12 +25,26 @@ const ImageGrid = () => {
       <div className="main">
         <div className="page-intro">
           <p className="title">
-            I was an associate visual journalist at FiveThirtyEight.
+            I was an Associate Visual Journalist at FiveThirtyEight. Before
+            that, I was a Graphics Fellow at Business Insider.
           </p>
           <p>
-            There I enjoyed analyzing data, creating charts, working with
-            talented designers and writers and learned a lot about American
-            politics and sports.
+            Here is my work at FiveThirtyEight; Focused on creating
+            visualizations that explain the numbers behind polls {` `}
+            <span className="emoji" role="img" aria-label="poll">
+              {String.fromCodePoint("0x1F4C8")}
+            </span>
+            <span className="emoji" role="img" aria-label="poll">
+              {String.fromCodePoint("0x1F4CA")}
+            </span>
+            {` `} and sports {` `}
+            <span className="emoji" role="img" aria-label="poll">
+              {String.fromCodePoint("0x1F3C8")}
+            </span>
+            <span className="emoji" role="img" aria-label="poll">
+              {String.fromCodePoint("0x1F3C0")}
+            </span>
+            .
           </p>
         </div>
 
@@ -39,11 +53,8 @@ const ImageGrid = () => {
         </div>
         <div className="page-intro divider">
           <p>
-            Before joining FiveThirtyEight, I was a graphic fellow at Business
-            Insider.
-            <br />
-            There I made charts and story arts to bring more insights to
-            readers.
+            Here is my work at Business Insider; Created visual elements and
+            story arts to deliver meaningful insights to readers.
           </p>
         </div>
         <div className="img-grid">
