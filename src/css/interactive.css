@@ -1,0 +1,24 @@
+.interactive-wrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-content: start;
+  justify-items: center;
+}
+.interactive-wrap .img-wrap {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.interactive-wrap a {
+  text-decoration: none;
+  color: #222222;
+  font-size: 24px;
+  margin: 40px 40px;
+}
+.interactive-wrap a:hover {
+  text-decoration: underline;
+}
+.interactive-wrap a:visited {
+  color: #222222;
+}
+
+/*# sourceMappingURL=interactive.css.map */

@@ -12,10 +12,16 @@ const footer = () => {
         className="social"
         href="https://www.linkedin.com/in/yutong-yuan-607a6ba7/"
         target="_blank"
+        rel="noopener noreferrer"
       >
         LinkedIn
       </a>
-      <a className="social" href="https://github.com/yyt1011" target="_blank">
+      <a
+        className="social"
+        href="https://github.com/yyt1011"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         Github
       </a>
     </div>

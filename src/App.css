@@ -1,24 +1,39 @@
 .App {
   width: 80%;
   margin: auto;
-  text-align: center;
   background-color: #fefefe;
   font-family: "Noto Sans", Arial, sans-serif;
   display: flex;
   flex-direction: row;
 }
-.App nav {
-  width: 10%;
+.App .left {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-end;
 }
-.App nav ul {
-  text-align: left;
+.App .left .site-name {
+  margin-bottom: 60px;
+}
+.App .left nav ul {
+  text-align: right;
   list-style: none;
   padding: 0;
   margin: 0;
 }
+.App .left nav li {
+  padding: 10px;
+}
+.App .left nav li a {
+  color: #666666;
+  text-decoration: none;
+}
+.App .left nav .current {
+  color: #222222;
+  text-decoration: underline;
+}
 .App .main {
+  margin: 80px 20px;
   width: 80%;
-  border: 1px black solid;
 }
 
 /*# sourceMappingURL=App.css.map */

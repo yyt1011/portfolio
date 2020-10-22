@@ -1,16 +1,15 @@
 .page-intro {
-  margin: 40px 60px;
-  border-bottom: 1px #999999 solid;
+  margin: 45px 40px;
+  border-bottom: 1px #e0e0e0 solid;
   text-align: left;
   padding-bottom: 40px;
 }
 .page-intro p {
   width: 80%;
-  margin: auto;
 }
 
 .divider {
-  border-top: 1px #999999 solid;
+  border-top: 1px #e0e0e0 solid;
   padding-top: 40px;
 }
 

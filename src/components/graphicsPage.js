@@ -24,10 +24,8 @@ const ImageGrid = () => {
     <React.Fragment>
       <div className="main">
         <div className="page-intro">
+          <p>I was an associate visual journalist at FiveThirtyEight.</p>
           <p>
-            I was an associate visual journalist, previously a data
-            visualization intern at FiveThirtyEight.
-            <br />
             There I enjoyed analyzing data, creating charts, working with
             talented designers and writers and learned a lot about American
             politics and sports.

@@ -1,17 +1,41 @@
 .home_intro {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  margin: 20px 40px 60px 40px;
+  width: 100%;
+
+  .intro_img {
+    display: block;
+    width: 40%;
+    border-radius: 50%;
+    margin: auto;
+  }
+  .intro_text_wrap {
+    width: 60%;
+    font-size: 18px;
+    margin: 40px;
+    text-align: left;
+    color: #999999;
+    .intro_text {
+      width: 40%;
+    }
+  }
   .bold {
     font-size: 24px;
     font-weight: bold;
   }
-
-  .intro_img {
-    display: block;
-    width: 25%;
-    border-radius: 50%;
-    margin: auto;
+  a {
+    text-decoration: none;
   }
-  p {
-    font-size: 18px;
-    padding-bottom: 20px;
+
+  a:visited {
+    color: #999999;
+  }
+
+  a:hover {
+    color: #222222;
+    font-weight: bold;
+    text-decoration: underline;
   }
 }
