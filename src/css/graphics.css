@@ -6,6 +6,11 @@
 }
 .page-intro p {
   width: 80%;
+  font-size: 16px;
+  font-weight: 400;
+}
+.page-intro .title {
+  font-weight: 500;
 }
 
 .divider {

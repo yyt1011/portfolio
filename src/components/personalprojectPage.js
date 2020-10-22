@@ -1,5 +1,6 @@
 import React from "react";
 import InteractiveGrid from "./interactiveGrid";
+import Footer from "./footer.js";
 
 const personal = () => {
   return (
@@ -12,11 +13,12 @@ const personal = () => {
           secondProjectTitle={`A sharp decline in refugee accepted by the US since 2017`}
           firstImageLink={require("../image/comp/PERM_Immigration.gif")}
           firstImageAlt={`Immgration`}
-          firstImageStyle={{ width: "100%" }}
+          firstImageStyle={{ width: "98%" }}
           secondImageLink={require("../image/comp/refugee.gif")}
           secondImageAlt={`refugee`}
-          secondImageStyle={{ width: "100%" }}
+          secondImageStyle={{ width: "90%" }}
         />
+        <Footer />
       </div>
     </React.Fragment>
   );

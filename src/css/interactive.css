@@ -5,16 +5,17 @@
   justify-items: center;
 }
 .interactive-wrap .img-wrap {
-  margin-top: 20px;
-  margin-right: 20px;
+  margin: 20px 60px;
 }
 .interactive-wrap a {
   text-decoration: none;
   color: #222222;
-  font-size: 24px;
-  margin: 40px 40px;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 40px 40px 20px 40px;
 }
 .interactive-wrap a:hover {
+  color: #222222;
   text-decoration: underline;
 }
 .interactive-wrap a:visited {

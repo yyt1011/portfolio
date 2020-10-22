@@ -14,7 +14,7 @@ const App = () => (
 
 const Navigation = () => (
   <div className="left">
-    <h2 className="site-name">Yutong's Portfolio</h2>
+    <p className="site-name">Yutong's Portfolio</p>
     <nav>
       <ul>
         <li>
