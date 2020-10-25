@@ -11,9 +11,10 @@
   flex-flow: column wrap;
   align-items: flex-end;
   margin-left: 20px;
+  min-width: 20%;
 }
 .App .left .site-name {
-  margin-bottom: 60px;
+  margin-bottom: 65px;
   font-size: 20px;
   font-weight: 500;
   text-align: right;
