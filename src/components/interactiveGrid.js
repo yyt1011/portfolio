@@ -11,6 +11,11 @@ const interactiveGrid = ({
   secondImageLink,
   secondImageAlt,
   secondImageStyle,
+  thirdProjectLink,
+  thirdProjectTitle,
+  thirdImageLink,
+  thirdImageAlt,
+  thirdImageStyle,
 }) => {
   return (
     <div className="interactive-wrap">
@@ -40,6 +45,19 @@ const interactiveGrid = ({
           style={secondImageStyle}
         />
       </div>
+      <a
+        className="title"
+        href={thirdProjectLink}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {thirdProjectTitle}
+      </a>
+      <a> </a>
+      <div className="img-wrap">
+        <img src={thirdImageLink} alt={thirdImageAlt} style={thirdImageStyle} />
+      </div>
+      <div className="img-wrap"></div>
     </div>
   );
 };

@@ -1,10 +1,11 @@
 .interactive-wrap {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-template-rows: 80px 376px 80px 376px;
   align-content: start;
   justify-items: center;
   .img-wrap {
-    margin: 20px 60px;
+    margin: 20px 80px;
   }
 
   a {
