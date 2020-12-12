@@ -8,8 +8,8 @@ const home = () => {
     <React.Fragment>
       <div className="main">
         <div className="home_intro">
-          <div clasNames="intro_text_wrap">
-            <p clasNames="intro_text">
+          <div className="intro_text_wrap">
+            <p className="intro_text">
               I'm <span className="bold">Yutong Yuan </span>{" "}
             </p>
             <p>
@@ -48,7 +48,7 @@ const home = () => {
               .
             </p>
           </div>
-          <div clasNames="intro_img_wrap">
+          <div className="intro_img_wrap">
             <img className="intro_img" src={profileImg} alt="profile" />
           </div>
         </div>

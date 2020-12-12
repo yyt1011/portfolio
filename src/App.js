@@ -3,8 +3,7 @@ import "./App.css";
 import { NavLink, Switch, Route } from "react-router-dom";
 import home from "./components/homePage";
 import graphics from "./components/graphicsPage";
-import interactive from "./components/interactivePage";
-import personal from "./components/personalprojectPage";
+import interactive from "./components/interactiveProjects";
 const App = () => (
   <div className="App">
     <Navigation />
@@ -32,11 +31,6 @@ const Navigation = () => (
             Interactive
           </NavLink>
         </li>
-        <li>
-          <NavLink exact activeClassName="current" to="/personalproject">
-            Personal Projects
-          </NavLink>
-        </li>
       </ul>
     </nav>
   </div>
@@ -47,7 +41,6 @@ const Main = () => (
     <Route exact path="/" component={home}></Route>
     <Route exact path="/graphics" component={graphics}></Route>
     <Route exact path="/interactive" component={interactive}></Route>
-    <Route exact path="/personalproject" component={personal}></Route>
   </Switch>
 );
 

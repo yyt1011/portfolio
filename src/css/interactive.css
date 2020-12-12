@@ -1,26 +1,30 @@
-.interactive-wrap {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 80px 376px 80px 376px;
-  align-content: start;
-  justify-items: center;
-}
-.interactive-wrap .img-wrap {
-  margin: 20px 80px;
-}
-.interactive-wrap a {
+a.projectwrap {
+  font-style: italic;
+  color: #222222;
   text-decoration: none;
-  color: #222222;
-  font-size: 18px;
-  font-weight: 500;
-  margin: 40px 40px 20px 40px;
+  font-size: 16px;
 }
-.interactive-wrap a:hover {
+
+a.projectwrap:visited {
   color: #222222;
+}
+
+a.projectwrap:hover {
+  color: #999999;
   text-decoration: underline;
 }
-.interactive-wrap a:visited {
-  color: #222222;
+
+.projectwrap p {
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+.projectwrap img {
+  margin-left: 40px;
+  margin-bottom: 60px;
+}
+
+.interactive {
+  margin: 30px 40px 60px;
 }
 
 /*# sourceMappingURL=interactive.css.map */
