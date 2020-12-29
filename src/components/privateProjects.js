@@ -23,6 +23,20 @@ const personalList = [
     imgAlt: "Election cartogram mape",
     imgStyle: { width: "100%" },
   },
+  {
+    link: "https://yyt1011.github.io/world_refugee_flow",
+    title: "Where are refugees from?",
+    imgLink: require("../image/comp/world_refugee_flow.gif"),
+    imgAlt: "World refugee data from 1961-2019",
+    imgStyle: { width: "100%" },
+  },
+  {
+    link: "https://yyt1011.github.io/fbi_crime_2019",
+    title: "Breakdown 2019 FBI offense data by type and race",
+    imgLink: require("../image/comp/crime-sankey.gif"),
+    imgAlt: "FBI hate crime data, 2019",
+    imgStyle: { width: "100%" },
+  },
 ];
 
 function Items() {
