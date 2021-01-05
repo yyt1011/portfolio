@@ -35,14 +35,14 @@ const personalList = [
     title: "Breakdown 2019 FBI offense data by type and race",
     imgLink: require("../image/comp/crime-sankey.gif"),
     imgAlt: "FBI hate crime data, 2019",
-    imgStyle: { width: "100%" },
+    imgStyle: { width: "90%" },
   },
   {
     link: "https://yyt1011.github.io/cloud_service_market/",
     title: "Global cloud service market segments and their leaders, 2019",
     imgLink: require("../image/comp/cloudservice.gif"),
     imgAlt: "Cloud service market segments and their leaders",
-    imgStyle: { width: "100%" },
+    imgStyle: { width: "90%" },
   },
 ];
 
