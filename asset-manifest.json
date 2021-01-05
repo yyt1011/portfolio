@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.182b4ff4.chunk.css",
-    "main.js": "/portfolio/static/js/main.33cf25bd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.33cf25bd.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.a9899b98.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a9899b98.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.29d2e424.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.29d2e424.js.map",
-    "static/js/2.0eb03650.chunk.js": "/portfolio/static/js/2.0eb03650.chunk.js",
-    "static/js/2.0eb03650.chunk.js.map": "/portfolio/static/js/2.0eb03650.chunk.js.map",
+    "static/js/2.df6bc9ee.chunk.js": "/portfolio/static/js/2.df6bc9ee.chunk.js",
+    "static/js/2.df6bc9ee.chunk.js.map": "/portfolio/static/js/2.df6bc9ee.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.97707334502008b9e2f07a7d1ff5d5d8.js": "/portfolio/precache-manifest.97707334502008b9e2f07a7d1ff5d5d8.js",
+    "precache-manifest.915dd848673ef6d89d1a9fffbd45731b.js": "/portfolio/precache-manifest.915dd848673ef6d89d1a9fffbd45731b.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.182b4ff4.chunk.css.map": "/portfolio/static/css/main.182b4ff4.chunk.css.map",
-    "static/js/2.0eb03650.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0eb03650.chunk.js.LICENSE.txt",
+    "static/js/2.df6bc9ee.chunk.js.LICENSE.txt": "/portfolio/static/js/2.df6bc9ee.chunk.js.LICENSE.txt",
     "static/media/*hermsmeyer.hill_.v.sherman-1.png": "/portfolio/static/media/*hermsmeyer.hill_.v.sherman-1.b1978b3f.png",
     "static/media/*hermsmeyer.hill_.v.sherman-2.png": "/portfolio/static/media/*hermsmeyer.hill_.v.sherman-2.5ebf7fdb.png",
     "static/media/17.png": "/portfolio/static/media/17.296ed17b.png",
@@ -67,6 +67,7 @@
     "static/media/bronner.frostenson.sach-AMERICA-ONE-ROOM.1003-2.png": "/portfolio/static/media/bronner.frostenson.sach-AMERICA-ONE-ROOM.1003-2.50bd3cb1.png",
     "static/media/bronner.sach-debate-in-charts-1016-1.png": "/portfolio/static/media/bronner.sach-debate-in-charts-1016-1.e2e24a9b.png",
     "static/media/bronner.sach-debate-in-charts-1220-1.png": "/portfolio/static/media/bronner.sach-debate-in-charts-1220-1.18314b50.png",
+    "static/media/cloudservice.gif": "/portfolio/static/media/cloudservice.13e36ac9.gif",
     "static/media/crime-sankey.gif": "/portfolio/static/media/crime-sankey.a388f1c2.gif",
     "static/media/darr.GROUND-GAME.1216.png": "/portfolio/static/media/darr.GROUND-GAME.1216.76bdcad6.png",
     "static/media/drutman.VOTE-BY-MAIL-PARTISAN.0511-1.png": "/portfolio/static/media/drutman.VOTE-BY-MAIL-PARTISAN.0511-1.02e96c8f.png",
@@ -96,8 +97,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.29d2e424.js",
-    "static/js/2.0eb03650.chunk.js",
+    "static/js/2.df6bc9ee.chunk.js",
     "static/css/main.182b4ff4.chunk.css",
-    "static/js/main.33cf25bd.chunk.js"
+    "static/js/main.a9899b98.chunk.js"
   ]
 }
