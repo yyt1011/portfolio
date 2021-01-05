@@ -21,14 +21,14 @@ const personalList = [
     title: "How blue are blue wall states?",
     imgLink: require("../image/comp/map.gif"),
     imgAlt: "Election cartogram mape",
-    imgStyle: { width: "100%" },
+    imgStyle: { width: "90%" },
   },
   {
     link: "https://yyt1011.github.io/world_refugee_flow",
     title: "Where are refugees from?",
     imgLink: require("../image/comp/world_refugee_flow.gif"),
     imgAlt: "World refugee data from 1961-2019",
-    imgStyle: { width: "100%" },
+    imgStyle: { width: "90%" },
   },
   {
     link: "https://yyt1011.github.io/fbi_crime_2019",

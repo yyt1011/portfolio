@@ -15,7 +15,7 @@ const publishedList = [
     title: "Take This Quiz To Find Out What Beer You Should Try.",
     imgLink: require("../image/comp/beer_quiz.gif"),
     imgAlt: "Choose a beer that fits you",
-    imgStyle: { width: "100%" },
+    imgStyle: { width: "95%" },
   },
 ];
 
