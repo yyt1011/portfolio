@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.182b4ff4.chunk.css",
-    "main.js": "/portfolio/static/js/main.ecb448d6.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ecb448d6.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.8ec7e8d2.chunk.css",
+    "main.js": "/portfolio/static/js/main.d4de8914.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d4de8914.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.29d2e424.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.29d2e424.js.map",
-    "static/js/2.df6bc9ee.chunk.js": "/portfolio/static/js/2.df6bc9ee.chunk.js",
-    "static/js/2.df6bc9ee.chunk.js.map": "/portfolio/static/js/2.df6bc9ee.chunk.js.map",
+    "static/js/2.b912b911.chunk.js": "/portfolio/static/js/2.b912b911.chunk.js",
+    "static/js/2.b912b911.chunk.js.map": "/portfolio/static/js/2.b912b911.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.2995783b2e434c647497a36b78e6205c.js": "/portfolio/precache-manifest.2995783b2e434c647497a36b78e6205c.js",
+    "precache-manifest.eaeb71bd75ae5a80430e58903cdc45a5.js": "/portfolio/precache-manifest.eaeb71bd75ae5a80430e58903cdc45a5.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.182b4ff4.chunk.css.map": "/portfolio/static/css/main.182b4ff4.chunk.css.map",
-    "static/js/2.df6bc9ee.chunk.js.LICENSE.txt": "/portfolio/static/js/2.df6bc9ee.chunk.js.LICENSE.txt",
+    "static/css/main.8ec7e8d2.chunk.css.map": "/portfolio/static/css/main.8ec7e8d2.chunk.css.map",
+    "static/js/2.b912b911.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b912b911.chunk.js.LICENSE.txt",
     "static/media/*hermsmeyer.hill_.v.sherman-1.png": "/portfolio/static/media/*hermsmeyer.hill_.v.sherman-1.b1978b3f.png",
     "static/media/*hermsmeyer.hill_.v.sherman-2.png": "/portfolio/static/media/*hermsmeyer.hill_.v.sherman-2.5ebf7fdb.png",
+    "static/media/1.png": "/portfolio/static/media/1.68994ef6.png",
+    "static/media/10.png": "/portfolio/static/media/10.d35c3497.png",
+    "static/media/12.png": "/portfolio/static/media/12.15ed9150.png",
+    "static/media/13.png": "/portfolio/static/media/13.06a0b6d9.png",
+    "static/media/14.png": "/portfolio/static/media/14.52019c7a.png",
+    "static/media/16.png": "/portfolio/static/media/16.082e1bdb.png",
     "static/media/17.png": "/portfolio/static/media/17.296ed17b.png",
     "static/media/18.png": "/portfolio/static/media/18.2a37cd6b.png",
     "static/media/19.png": "/portfolio/static/media/19.49c102e6.png",
@@ -40,6 +46,9 @@
     "static/media/40.jpg": "/portfolio/static/media/40.774aa7b4.jpg",
     "static/media/41.jpg": "/portfolio/static/media/41.4e32cff8.jpg",
     "static/media/42.jpg": "/portfolio/static/media/42.b49b16cd.jpg",
+    "static/media/5.png": "/portfolio/static/media/5.19e7624c.png",
+    "static/media/6.jpg": "/portfolio/static/media/6.04cff130.jpg",
+    "static/media/8.png": "/portfolio/static/media/8.6b094202.png",
     "static/media/ATD-CLINTONIMPEACHMENT-1017.-2ai.png": "/portfolio/static/media/ATD-CLINTONIMPEACHMENT-1017.-2ai.d223e0c0.png",
     "static/media/ATD-CLINTONIMPEACHMENT-1017.png": "/portfolio/static/media/ATD-CLINTONIMPEACHMENT-1017.3cf2d749.png",
     "static/media/ATD-FILIBUSTER-DEMS-0920-1.png": "/portfolio/static/media/ATD-FILIBUSTER-DEMS-0920-1.87c14a9a.png",
@@ -92,13 +101,12 @@
     "static/media/sawchik-MLB-stadium-newmap.png": "/portfolio/static/media/sawchik-MLB-stadium-newmap.bd07e892.png",
     "static/media/sawchik-MLBPredictions-1002-2.png": "/portfolio/static/media/sawchik-MLBPredictions-1002-2.5df2f56f.png",
     "static/media/skelley-early-states-1.png": "/portfolio/static/media/skelley-early-states-1.3a22325e.png",
-    "static/media/skelley.CLINTON-BIDEN-COUNTIES.0330-FINAL.png": "/portfolio/static/media/skelley.CLINTON-BIDEN-COUNTIES.0330-FINAL.d85ab188.png",
-    "static/media/world_refugee_flow.gif": "/portfolio/static/media/world_refugee_flow.1a25cbda.gif"
+    "static/media/skelley.CLINTON-BIDEN-COUNTIES.0330-FINAL.png": "/portfolio/static/media/skelley.CLINTON-BIDEN-COUNTIES.0330-FINAL.d85ab188.png"
   },
   "entrypoints": [
     "static/js/runtime-main.29d2e424.js",
-    "static/js/2.df6bc9ee.chunk.js",
-    "static/css/main.182b4ff4.chunk.css",
-    "static/js/main.ecb448d6.chunk.js"
+    "static/js/2.b912b911.chunk.js",
+    "static/css/main.8ec7e8d2.chunk.css",
+    "static/js/main.d4de8914.chunk.js"
   ]
 }
