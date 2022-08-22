@@ -1,0 +1,32 @@
+.stories {
+    margin: 45px 40px;
+}
+
+.story {
+    padding-bottom: 40px;
+}
+
+.story .led p{
+    margin:0;
+    padding:0;
+}
+
+.title a {
+    text-decoration: none;
+    color:#222222;
+    font-size: 20px;;
+}
+.title a {
+    text-decoration: none;
+  }
+.title a:visited {
+    color: #222222;
+  }
+.title a:hover {
+    color: #222222;
+    text-decoration: underline;
+  }
+
+.led p{
+    color: #999999;
+}

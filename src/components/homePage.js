@@ -8,21 +8,32 @@ const home = () => {
     <React.Fragment>
       <div className="main">
         <div className="home_intro">
+        <div className="intro_img_wrap">
+            <img className="intro_img" src={profileImg} alt="profile" />
+          </div>
           <div className="intro_text_wrap">
             <p className="intro_text">
               I'm <span className="bold">Yutong Yuan </span>{" "}
             </p>
             <p>
-              I'm a visual journalist. <br />I work with data{" "}
+              I'm a Technical Writer for MenuSifu - a software company providing comprehensive POS systems to restaurants. 
+            </p>
+            <p>There I work with product managers to create user-centric guides and with engineering teams to maintain technical documents. Please contact me for writing samples.
+            </p> 
+
+            <p>
+              Before that, I was a visual journalist.
+            </p>
+              <p>I like working with data{" "}
               <span className="emoji" role="img" aria-label="poll">
                 {String.fromCodePoint("0x2714")}
               </span>
-              , make charts{" "}
+              , making charts{" "}
               <span className="emoji" role="img" aria-label="poll">
                 {String.fromCodePoint("0x1F4CA")}
               </span>{" "}
               <br />
-              and love coding{" "}
+              and coding{" "}
               <span className="emoji" role="img" aria-label="poll">
                 {String.fromCodePoint("0x1F4BB")}
               </span>
@@ -47,9 +58,6 @@ const home = () => {
               </a>
               .
             </p>
-          </div>
-          <div className="intro_img_wrap">
-            <img className="intro_img" src={profileImg} alt="profile" />
           </div>
         </div>
         <Footer />

@@ -26,7 +26,7 @@ const personalList = [
   {
     link: "https://yyt1011.github.io/world_refugee_flow",
     title: "Where are refugees from?",
-    imgLink: require("../image/comp/world_refugee_flow.gif"),
+    imgLink: require("../image/comp/refugee.gif"),
     imgAlt: "World refugee data from 1961-2019",
     imgStyle: { width: "90%" },
   },

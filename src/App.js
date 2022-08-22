@@ -4,6 +4,7 @@ import { NavLink, Switch, Route } from "react-router-dom";
 import home from "./components/homePage";
 import graphics from "./components/graphicsPage";
 import interactive from "./components/interactiveProjects";
+import stories from "./components/stories";
 const App = () => (
   <div className="App">
     <Navigation />
@@ -31,6 +32,11 @@ const Navigation = () => (
             Interactive
           </NavLink>
         </li>
+        <li>
+          <NavLink exact activeClassName="current" to="/stories">
+            Reporting
+          </NavLink>
+        </li>
       </ul>
     </nav>
   </div>
@@ -41,6 +47,7 @@ const Main = () => (
     <Route exact path="/" component={home}></Route>
     <Route exact path="/graphics" component={graphics}></Route>
     <Route exact path="/interactive" component={interactive}></Route>
+    <Route exact path="/stories" component={stories}></Route>
   </Switch>
 );
 
